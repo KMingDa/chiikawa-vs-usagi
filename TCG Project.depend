@@ -1,0 +1,347 @@
+# depslib dependency file v1.0
+1749661582 source:c:\users\admin\onedrive - mmu.edu.my\desktop\tcg project\cgproject.cpp
+	<GL/glut.h>
+	<string>
+	<fstream>
+	<cmath>
+	"CGProject.hpp"
+
+1749661980 c:\users\admin\onedrive - mmu.edu.my\desktop\tcg project\cgproject.hpp
+	"CGProjectmain.hpp"
+	"CGimageloader.hpp"
+	<string>
+	<vector>
+	<cstdlib>
+	<ctime>
+
+1749658923 c:\users\admin\onedrive - mmu.edu.my\desktop\tcg project\cgprojectmain.hpp
+	<string>
+	<cmath>
+	<iostream>
+	<GL/glut.h>
+
+1749662089 source:c:\users\admin\onedrive - mmu.edu.my\desktop\tcg project\cgprojectmain.cpp
+	<cstdlib>
+	<iostream>
+	<iomanip>
+	<cmath>
+	<GL/glut.h>
+	"CGProjectmain.hpp"
+	"CGProject.hpp"
+
+1749548987 source:c:\users\ben ng\onedrive\documents\tcg\project\tcg project\tcg project\cgproject.cpp
+	<GL/glut.h>
+	<string>
+	<fstream>
+	"CGProject.hpp"
+
+1749548987 c:\users\ben ng\onedrive\documents\tcg\project\tcg project\tcg project\cgproject.hpp
+	"CGProjectmain.hpp"
+	"CGimageloader.hpp"
+	<string>
+	<vector>
+	<cstdlib>
+	<ctime>
+
+1749542174 c:\users\ben ng\onedrive\documents\tcg\project\tcg project\tcg project\cgprojectmain.hpp
+	<string>
+	<cmath>
+	<iostream>
+	<GL/glut.h>
+
+1749543793 source:c:\users\ben ng\onedrive\documents\tcg\project\tcg project\tcg project\cgprojectmain.cpp
+	<cstdlib>
+	<iostream>
+	<iomanip>
+	<cmath>
+	<GL/glut.h>
+	"CGProjectmain.hpp"
+	"CGProject.hpp"
+
+1749328691 source:c:\users\ben\documents\school\sem 9\computer graphics\project 5\tcg project\tcg project\cgproject.cpp
+	<GL/glut.h>
+	<GL/glut.h>
+	<string>
+	<fstream>
+	"CGProject.hpp"
+
+1749328558 c:\users\ben\documents\school\sem 9\computer graphics\project 5\tcg project\tcg project\cgproject.hpp
+	"CGProjectmain.hpp"
+	<string>
+	<vector>
+	<cstdlib>
+	<ctime>
+
+1749294095 c:\users\ben\documents\school\sem 9\computer graphics\project 5\tcg project\tcg project\cgprojectmain.hpp
+	<string>
+	<cmath>
+	<iostream>
+	<GL/glut.h>
+
+1749430417 source:c:\users\ben\documents\school\sem 9\computer graphics\project 5\tcg project\tcg project\cgprojectmain.cpp
+	<cstdlib>
+	<iostream>
+	<iomanip>
+	<cmath>
+	<GL/glut.h>
+	"CGProjectmain.hpp"
+	"CGProject.hpp"
+
+1749658923 source:c:\users\admin\onedrive - mmu.edu.my\desktop\tcg project\cgutils\cgimageloader.cpp
+	<cstdio>
+	<cstdlib>
+	<GL/glut.h>
+	<iostream>
+	"CGimageloader.hpp"
+
+1749658923 c:\users\admin\onedrive - mmu.edu.my\desktop\tcg project\cgutils\cgimageloader.hpp
+	<string>
+	"jpeglib.h"
+	<setjmp.h>
+
+1749658923 c:\users\admin\onedrive - mmu.edu.my\desktop\tcg project\cgutils\jpeglib.h
+	"jconfig.h"
+	"jmorecfg.h"
+	"jpegint.h"
+	"jerror.h"
+
+1749658923 c:\users\admin\onedrive - mmu.edu.my\desktop\tcg project\cgutils\jconfig.h
+	<windows.h>
+
+1749658923 c:\users\admin\onedrive - mmu.edu.my\desktop\tcg project\cgutils\jmorecfg.h
+
+1749710202 source:d:\lab practice-20250327\tcg project\cgproject.cpp
+	<GL/glut.h>
+	<string>
+	<fstream>
+	<cmath>
+	"CGProject.hpp"
+
+1749710202 d:\lab practice-20250327\tcg project\cgproject.hpp
+	"CGProjectmain.hpp"
+	"CGimageloader.hpp"
+	<string>
+	<vector>
+	<cstdlib>
+	<ctime>
+
+1749710202 d:\lab practice-20250327\tcg project\cgprojectmain.hpp
+	<string>
+	<cmath>
+	<iostream>
+	<GL/glut.h>
+
+1749710202 source:d:\lab practice-20250327\tcg project\cgprojectmain.cpp
+	<cstdlib>
+	<iostream>
+	<iomanip>
+	<cmath>
+	<GL/glut.h>
+	"CGProjectmain.hpp"
+	"CGProject.hpp"
+
+1749710202 source:d:\lab practice-20250327\tcg project\cgutils\cgimageloader.cpp
+	<cstdio>
+	<cstdlib>
+	<GL/glut.h>
+	<iostream>
+	"CGimageloader.hpp"
+
+1749710202 d:\lab practice-20250327\tcg project\cgutils\cgimageloader.hpp
+	<string>
+	"jpeglib.h"
+	<setjmp.h>
+
+1749710202 d:\lab practice-20250327\tcg project\cgutils\jpeglib.h
+	"jconfig.h"
+	"jmorecfg.h"
+	"jpegint.h"
+	"jerror.h"
+
+1749710202 d:\lab practice-20250327\tcg project\cgutils\jconfig.h
+	<windows.h>
+
+1749710202 d:\lab practice-20250327\tcg project\cgutils\jmorecfg.h
+
+1749542174 source:c:\users\ben ng\onedrive\documents\tcg\project\tcg project\tcg project\cgutils\cgimageloader.cpp
+	<cstdio>
+	<cstdlib>
+	<GL/glut.h>
+	<iostream>
+	"CGimageloader.hpp"
+
+1749542174 c:\users\ben ng\onedrive\documents\tcg\project\tcg project\tcg project\cgutils\cgimageloader.hpp
+	<string>
+	"jpeglib.h"
+	<setjmp.h>
+
+1749542174 c:\users\ben ng\onedrive\documents\tcg\project\tcg project\tcg project\cgutils\jpeglib.h
+	"jconfig.h"
+	"jmorecfg.h"
+	"jpegint.h"
+	"jerror.h"
+
+1749542174 c:\users\ben ng\onedrive\documents\tcg\project\tcg project\tcg project\cgutils\jconfig.h
+	<windows.h>
+
+1749542174 c:\users\ben ng\onedrive\documents\tcg\project\tcg project\tcg project\cgutils\jmorecfg.h
+
+1749562835 source:c:\users\ben ng\onedrive\documents\tcg\project\tcg project\tcg project\tcg project\cgproject.cpp
+	<GL/glut.h>
+	<string>
+	<fstream>
+	<cmath>
+	"CGProject.hpp"
+
+1749560248 c:\users\ben ng\onedrive\documents\tcg\project\tcg project\tcg project\tcg project\cgproject.hpp
+	"CGProjectmain.hpp"
+	"CGimageloader.hpp"
+	<string>
+	<vector>
+	<cstdlib>
+	<ctime>
+
+1749542174 c:\users\ben ng\onedrive\documents\tcg\project\tcg project\tcg project\tcg project\cgprojectmain.hpp
+	<string>
+	<cmath>
+	<iostream>
+	<GL/glut.h>
+
+1749542174 c:\users\ben ng\onedrive\documents\tcg\project\tcg project\tcg project\tcg project\cgutils\cgimageloader.hpp
+	<string>
+	"jpeglib.h"
+	<setjmp.h>
+
+1749542174 c:\users\ben ng\onedrive\documents\tcg\project\tcg project\tcg project\tcg project\cgutils\jpeglib.h
+	"jconfig.h"
+	"jmorecfg.h"
+	"jpegint.h"
+	"jerror.h"
+
+1749542174 c:\users\ben ng\onedrive\documents\tcg\project\tcg project\tcg project\tcg project\cgutils\jconfig.h
+	<windows.h>
+
+1749542174 c:\users\ben ng\onedrive\documents\tcg\project\tcg project\tcg project\tcg project\cgutils\jmorecfg.h
+
+1749560248 source:c:\users\ben ng\onedrive\documents\tcg\project\tcg project\tcg project\tcg project\cgprojectmain.cpp
+	<cstdlib>
+	<iostream>
+	<iomanip>
+	<cmath>
+	<GL/glut.h>
+	"CGProjectmain.hpp"
+	"CGProject.hpp"
+
+1749542174 source:c:\users\ben ng\onedrive\documents\tcg\project\tcg project\tcg project\tcg project\cgutils\cgimageloader.cpp
+	<cstdio>
+	<cstdlib>
+	<GL/glut.h>
+	<iostream>
+	"CGimageloader.hpp"
+
+1749703272 source:c:\users\ben\documents\school\sem 9\computer graphics\tcg project\tcg project\cgproject.cpp
+	<GL/glut.h>
+	<string>
+	<fstream>
+	<cmath>
+	"CGProject.hpp"
+
+1749669376 c:\users\ben\documents\school\sem 9\computer graphics\tcg project\tcg project\cgproject.hpp
+	"CGProjectmain.hpp"
+	"CGimageloader.hpp"
+	<string>
+	<vector>
+	<cstdlib>
+	<ctime>
+
+1749662264 c:\users\ben\documents\school\sem 9\computer graphics\tcg project\tcg project\cgprojectmain.hpp
+	<string>
+	<cmath>
+	<iostream>
+	<GL/glut.h>
+
+1749662265 c:\users\ben\documents\school\sem 9\computer graphics\tcg project\tcg project\cgutils\cgimageloader.hpp
+	<string>
+	"jpeglib.h"
+	<setjmp.h>
+
+1749662265 c:\users\ben\documents\school\sem 9\computer graphics\tcg project\tcg project\cgutils\jpeglib.h
+	"jconfig.h"
+	"jmorecfg.h"
+	"jpegint.h"
+	"jerror.h"
+
+1749662265 c:\users\ben\documents\school\sem 9\computer graphics\tcg project\tcg project\cgutils\jconfig.h
+	<windows.h>
+
+1749662265 c:\users\ben\documents\school\sem 9\computer graphics\tcg project\tcg project\cgutils\jmorecfg.h
+
+1749670209 source:c:\users\ben\documents\school\sem 9\computer graphics\tcg project\tcg project\cgprojectmain.cpp
+	<cstdlib>
+	<iostream>
+	<iomanip>
+	<cmath>
+	<GL/glut.h>
+	"CGProjectmain.hpp"
+	"CGProject.hpp"
+
+1749662264 source:c:\users\ben\documents\school\sem 9\computer graphics\tcg project\tcg project\cgutils\cgimageloader.cpp
+	<cstdio>
+	<cstdlib>
+	<GL/glut.h>
+	<iostream>
+	"CGimageloader.hpp"
+
+1749669714 source:c:\users\ben\documents\school\sem 9\computer graphics\tcg project 4\tcg project\cgproject.cpp
+	<GL/glut.h>
+	<string>
+	<fstream>
+	<cmath>
+	"CGProject.hpp"
+
+1749669376 c:\users\ben\documents\school\sem 9\computer graphics\tcg project 4\tcg project\cgproject.hpp
+	"CGProjectmain.hpp"
+	"CGimageloader.hpp"
+	<string>
+	<vector>
+	<cstdlib>
+	<ctime>
+
+1749662264 c:\users\ben\documents\school\sem 9\computer graphics\tcg project 4\tcg project\cgprojectmain.hpp
+	<string>
+	<cmath>
+	<iostream>
+	<GL/glut.h>
+
+1749670209 source:c:\users\ben\documents\school\sem 9\computer graphics\tcg project 4\tcg project\cgprojectmain.cpp
+	<cstdlib>
+	<iostream>
+	<iomanip>
+	<cmath>
+	<GL/glut.h>
+	"CGProjectmain.hpp"
+	"CGProject.hpp"
+
+1749662264 source:c:\users\ben\documents\school\sem 9\computer graphics\tcg project 4\tcg project\cgutils\cgimageloader.cpp
+	<cstdio>
+	<cstdlib>
+	<GL/glut.h>
+	<iostream>
+	"CGimageloader.hpp"
+
+1749662265 c:\users\ben\documents\school\sem 9\computer graphics\tcg project 4\tcg project\cgutils\cgimageloader.hpp
+	<string>
+	"jpeglib.h"
+	<setjmp.h>
+
+1749662265 c:\users\ben\documents\school\sem 9\computer graphics\tcg project 4\tcg project\cgutils\jpeglib.h
+	"jconfig.h"
+	"jmorecfg.h"
+	"jpegint.h"
+	"jerror.h"
+
+1749662265 c:\users\ben\documents\school\sem 9\computer graphics\tcg project 4\tcg project\cgutils\jconfig.h
+	<windows.h>
+
+1749662265 c:\users\ben\documents\school\sem 9\computer graphics\tcg project 4\tcg project\cgutils\jmorecfg.h
+
