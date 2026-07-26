@@ -37,14 +37,14 @@ https://github.com/user-attachments/assets/abb6416e-df0e-4d57-ad1e-31999a7c723e
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/aidasakinah">
-        <img src="https://avatars.githubusercontent.com/aidasakinah" width="100px;" alt="Aida Sakinah binti Kahirol"/><br />
+      <a href="https://github.com/1211209221">
+        <img src="https://avatars.githubusercontent.com/1211209221" width="100px;" alt="Benjamin"/><br />
         <sub><b>Benjamin</b></sub>
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/yapmengyoon">
-        <img src="https://avatars.githubusercontent.com/yapmengyoon" width="100px;" alt="Tammy Wong Ee Xien"/><br />
+        <img src="https://avatars.githubusercontent.com/yapmengyoon" width="100px;" alt="Yap Meng Yoon"/><br />
         <sub><b>Yap Meng Yoon</b></sub>
       </a>
     </td>
