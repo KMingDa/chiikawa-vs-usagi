@@ -1,1 +1,1 @@
-# chiikawa-vs-usagi
+# Chiikawa VS Usagi
