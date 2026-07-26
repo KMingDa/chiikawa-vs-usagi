@@ -10,31 +10,19 @@ Built with:
 
 ## 🎮 Controls
 
-### Player 1 - Chiikawa
-
-| Key | Action |
-|------|--------|
-| W | Move Up |
-| A | Move Left |
-| S | Move Down |
-| D | Move Right |
-| X | Attack |
-
-### Player 2 - Usagi
-
-| Key | Action |
-|------|--------|
-| ↑ | Move Up |
-| ← | Move Left |
-| ↓ | Move Down |
-| → | Move Right |
-| Enter | Attack |
+| Action | Chiikawa (Player 1) | Usagi (Player 2) |
+|--------|---------------------|------------------|
+| Move Up | W | ↑ |
+| Move Left | A | ← |
+| Move Down | S | ↓ |
+| Move Right | D | → |
+| Attack | X | Enter |
 
 ---
 
 ## 🎥 Demo
 
-https://github.com/your-username/your-repository/assets/your-video-link
+https://github.com/user-attachments/assets/abb6416e-df0e-4d57-ad1e-31999a7c723e
 
 ---
 
